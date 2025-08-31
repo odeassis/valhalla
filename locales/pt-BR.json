@@ -436,20 +436,20 @@
       "phrases": {
         "0": "Entre na rotatória.",
         "1": "Entre na rotatória e saia na <ORDINAL_VALUE> saída.",
-        "2": "Enter the roundabout and take the <ORDINAL_VALUE> exit onto <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "3": "Enter the roundabout and take the <ORDINAL_VALUE> exit onto <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue on <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "4": "Enter the roundabout and take the <ORDINAL_VALUE> exit toward <TOWARD_SIGN>.",
-        "5": "Enter the roundabout and take the exit onto <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "6": "Enter the roundabout and take the exit onto <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue on <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "7": "Enter the roundabout and take the exit toward <TOWARD_SIGN>.",
-        "8": "Enter <STREET_NAMES>",
-        "9": "Enter <STREET_NAMES> and take the <ORDINAL_VALUE> exit.",
-        "10": "Enter <STREET_NAMES> and take the <ORDINAL_VALUE> exit onto <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "11": "Enter <STREET_NAMES> and take the <ORDINAL_VALUE> exit onto <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue on <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "12": "Enter <STREET_NAMES> and take the <ORDINAL_VALUE> exit toward <TOWARD_SIGN>.",
-        "13": "Enter <STREET_NAMES> and take the exit onto <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "14": "Enter <STREET_NAMES> and take the exit onto <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue on <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "15": "Enter <STREET_NAMES> and take the exit toward <TOWARD_SIGN>."
+        "2": "Entre  <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "3": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue em <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "4": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída em direção a <TOWARD_SIGN>.",
+        "5": "Entre na rotatória e pegue a saída em direção a <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "6": "Entre na rotatória e pegue a saída em direção a <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue em <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "7": "Entre na rotatória e pegue a saída em direção a <TOWARD_SIGN>.",
+        "8": "Entre <STREET_NAMES>",
+        "9": "Entre <STREET_NAMES> e pegue a <ORDINAL_VALUE> saída.",
+        "10": "Entre <STREET_NAMES> e pegue a <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "11": "Entre <STREET_NAMES> e pegue a <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue em <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "12": "Entre <STREET_NAMES> e pegue a <ORDINAL_VALUE> saída em direção a <TOWARD_SIGN>.",
+        "13": "Entre <STREET_NAMES> e pegue a saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "14": "Entre <STREET_NAMES> e pegue a saída para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue em <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "15": "Entre <STREET_NAMES> e pegue a saída em direção a <TOWARD_SIGN>."
       },
       "ordinal_values": [
         "1ª",
@@ -489,46 +489,46 @@
           "Entre na rotatória e saia na 10ª saída."
         ],
         "2": [
-          "Enter the roundabout and take the 3rd exit onto Main Street."
+          "Entre na rotatória e pegue a 3ª saída para a Main Street."
         ],
         "3": [
-          "Enter the roundabout and take the 3rd exit onto US 322/Main Street. Continue on US 322."
+          "Entre na rotatória e pegue a 3ª saída para a US 322/Main Street. Continue na US 322."
         ],
         "4": [
-          "Enter the roundabout and take the 3rd exit toward Baltimore."
+          "Entre na rotatória e pegue a 3ª saída em direção a Baltimore."
         ],
         "5": [
-          "Enter the roundabout and take the exit onto Main Street."
+          "Entre na rotatória e pegue a saída para a Main Street."
         ],
         "6": [
-          "Enter the roundabout and take the exit onto US 322/Main Street. Continue on US 322."
+          "Entre na rotatória e pegue a saída para a US 322/Main Street. Continue na US 322."
         ],
         "7": [
-          "Enter the roundabout and take the exit toward Baltimore."
+          "Entre na rotatória e pegue a saída em direção a Baltimore."
         ],
         "8": [
-          "Enter Dupont Circle."
+          "Entre no Dupont Circle."
         ],
         "9": [
-          "Enter Dupont Circle and take the 1st exit."
+          "Entre no Dupont Circle e pegue a 1ª saída."
         ],
         "10": [
-          "Enter Dupont Circle and take the 3rd exit onto Main Street."
+          "Entre no Dupont Circle e pegue a 3ª saída para a Main Street."
         ],
         "11": [
-          "Enter Dupont Circle and take the 3rd exit onto US 322/Main Street. Continue on US 322."
+          "Entre no Dupont Circle e pegue a 3ª saída para a US 322/Main Street. Continue na US 322."
         ],
         "12": [
-          "Enter Dupont Circle and take the 3rd exit toward Baltimore."
+          "Entre no Dupont Circle e pegue a 3ª saída em direção a Baltimore."
         ],
         "13": [
-          "Enter Dupont Circle and take the exit onto Main Street."
+          "Entre no Dupont Circle e pegue a saída para a Main Street."
         ],
         "14": [
-          "Enter Dupont Circle and take the exit onto US 322/Main Street. Continue on US 322."
+          "Entre no Dupont Circle e pegue a saída para a US 322/Main Street. Continue na US 322."
         ],
         "15": [
-          "Enter Dupont Circle and take the exit toward Baltimore."
+          "Entre no Dupont Circle e pegue a saída em direção a Baltimore."
         ]
       }
     },
