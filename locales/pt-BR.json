@@ -436,7 +436,7 @@
       "phrases": {
         "0": "Entre na rotatória.",
         "1": "Entre na rotatória e saia na <ORDINAL_VALUE> saída.",
-        "2": "Entre  <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "2": "Entre <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
         "3": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>. Continue em <ROUNDABOUT_EXIT_STREET_NAMES>.",
         "4": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída em direção a <TOWARD_SIGN>.",
         "5": "Entre na rotatória e pegue a saída em direção a <ROUNDABOUT_EXIT_STREET_NAMES>.",
@@ -536,9 +536,9 @@
       "phrases": {
         "0": "Entre na rotatória.",
         "1": "Entre na rotatória e saia na <ORDINAL_VALUE> saída.",
-        "2": "Entre na rotatória e pegue a saída <ORDINAL_VALUE> para <ROUNDABOUT_EXIT_STREET_NAMES>.",
-        "3": "Entre na rotatória e pegue a saída <ORDINAL_VALUE> para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>.",
-        "4": "Entre na rotatória e pegue a saída <ORDINAL_VALUE> em direção a <TOWARD_SIGN>.",
+        "2": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
+        "3": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>.",
+        "4": "Entre na rotatória e pegue a <ORDINAL_VALUE> saída em direção a <TOWARD_SIGN>.",
         "5": "Entre na rotatória e pegue a saída para <ROUNDABOUT_EXIT_STREET_NAMES>.",
         "6": "Entre na rotatória e pegue a saída para <ROUNDABOUT_EXIT_BEGIN_STREET_NAMES>.",
         "7": "Entre na rotatória e pegue a saída em direção a <TOWARD_SIGN>.",
